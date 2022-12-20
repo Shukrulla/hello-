@@ -1,0 +1,24 @@
+{
+  "name": "susambul",
+  "version": "1.0.0",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shukrulla/gitproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shukrulla/gitproject/issues"
+  },
+  "homepage": "https://github.com/Shukrulla/gitproject#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "mongoose": "^6.8.1",
+    "underscore": "^1.13.6"
+  }
+}
